@@ -20,7 +20,7 @@ I'm a Frontend Developer passionate about building clean, responsive, and user-f
 - 🌱 I’m currently working as a tech teaching assistant.
 - 😊 I’m interested open source projects, hackathons, and speaking opportunities.
 - 💼 Job interests: Software Engineer, FrontEnd Engineer, Teaching or UI Engineer (Mid level).
-- 📫 You can [view my resume]() and contact me by emailing cynthiaozofor@gmail.com.
+- 📫 Contact me by emailing cynthiaozofor@gmail.com.
 
 ---
 
